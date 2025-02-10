@@ -20,4 +20,4 @@ async def on_message(message):
 
 # 디스코드 봇 토큰을 사용하여 봇 로그인
 # 여기에는 본인이 발급받은 디스코드 봇 토큰을 입력해야 합니다.
-client.run('MTI4Njk3NTY4NTM5ODg5MjU3NQ.G8ieT1.8ypAGNCDYVyeq1M9Hpd1i_P47CbzJQ4kawOOZ0')
+client.run('노무현 운지')
